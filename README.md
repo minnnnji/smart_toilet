@@ -1,3 +1,3 @@
 # smart_toilet
 
-사진은 issue
+### 2018 세종대학교 SW 해커톤
